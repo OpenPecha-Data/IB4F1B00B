@@ -1,0 +1,38 @@
+id: IB4F1B00B
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T14:24:44.679040'
+last_modified: '2022-06-19T14:24:44.679051'
+parser: null
+source_metadata:
+  title: Hagiography of Nyan chen bSod nams brtan pa; Lamdre Lobshe, vol. ka, title
+    no. 13, from the chronological biographies of the Lamdre lineage masters
+  author: rin chen seng ge
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2013-08-16); converted from external file, unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:rdzong sar khams bye'i lnga rig slob gling / sde dge rdzong sar/ (dzkj)
+  - Editorial process:Mathias Fermer (mf), Kunga Dorje (kun)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/190
+  bases:
+    109b:
+      title: Hagiography of Nyan chen bSod nams brtan pa; Lamdre Lobshe, vol. ka,
+        title no. 13, from the chronological biographies of the Lamdre lineage masters
+      order: 1
+      base_file: 109b.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
